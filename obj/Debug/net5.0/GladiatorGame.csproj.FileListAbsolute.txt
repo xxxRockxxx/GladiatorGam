@@ -1,0 +1,16 @@
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.exe
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.deps.json
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.runtimeconfig.json
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.runtimeconfig.dev.json
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.dll
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\ref\GladiatorGame.dll
+C:\Програмирование\Saves programs\C#\GladiatorGame\bin\Debug\net5.0\GladiatorGame.pdb
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.csproj.AssemblyReference.cache
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.AssemblyInfoInputs.cache
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.AssemblyInfo.cs
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.csproj.CoreCompileInputs.cache
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.dll
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\ref\GladiatorGame.dll
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.pdb
+C:\Програмирование\Saves programs\C#\GladiatorGame\obj\Debug\net5.0\GladiatorGame.genruntimeconfig.cache
